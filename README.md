@@ -1,12 +1,16 @@
 # Verkefni 3 – Sýn og umfang  
 
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 3. Uppfærðu þetta README skjal til að lýsa repo-inu þínu 
+**Teymi:** Inga og Gabríel
 
-Þessi mappa inniheldur efnið sem beðið er um í verkefninu.
+**Höfundar:** Edil Inga Kristjánsdóttir og Gabríel Orri Karlsson
 
--- **README.md - Uppfærið og aðlagið fyrir lesanda respository. Setjið inn Heiti hugbúnaðarins, höfunda og 1-2 setning um hvað repository inniheldur  
 
--- **VISIONSCOPE.md - Meginefni verkefnisins 
 
--- **Vinnuferli.md Í lokin lýsa nemendur verkaskiptingu, ígrunda verkefnið og skrifa gagnsæisyfirlýsingu
+## Um þetta repository
+
+Þetta repository geymir greiningu á framtíðarsýn, viðskiptamarkmiðum og afmörkun á fyrstu útgáfu (MVP) fyrir hugbúnaðarlausnina **Vaktina** (sveigjanlegt vaktaplan og afleysingakerfi fyrir veitingastaði og verslanir).
+
+### Skipulag mappna og skráa:
+
+* **`VISIONSCOPE.md`**: Meginefni Verkefnis 3. Inniheldur mælanleg viðskiptamarkmið (BO-1, BO-2, BO-3), framtíðarsýn (Vision Statement), prófíla lykilhagsmunaaðila, forgangsröðun á fimm víddum verkefnisins og nákvæma afmörkun á umfang fyrstu útgáfu (MVP).
+* **`VINNUFERLI.md`**: Lýsing á vinnulagi og verkaskiptingu hópsins í gegnum GitHub, ígrundun á verkefninu ásamt gagnsæisyfirlýsingu um notkun gervigreindartóla.
