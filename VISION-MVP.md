@@ -14,7 +14,7 @@
 
 1. [Viðskiptamarkmið](#1-viðskiptamarkmið)
 2. [Framtíðarsýn](#2-framtíðarsýn)
-3. [Prófíll mikilvægra notenda](#3-prófíll-mikilvægra-notenda)
+3. [Prófíll mikilvægra notenda](#3-prófíll-lykilhagsmunaaðila-eða-mikilvægra-notenda)
 4. [Forgangsröðun verkefnisins](#4-forgangsröðun-verkefnisins)
 5. [Umfang fyrstu útgáfu (MVP)](#5-umfang-fyrstu-útgáfu-mvp)
 
@@ -79,20 +79,29 @@ Kerfið býður upp á rauntíma yfirsýn yfir lausar vaktir, sjálfvirkt eftirl
 mestu máli fyrir framtíðarsýnina og MVP. Rökstyðjið valið. Vísið í
 verkefni 2 í stað þess að endurtaka alla hagsmunaaðilagreininguna. 
 -->
+**Val á notendahópi:** Starfsmenn og vaktstjórar voru valdir sem tveir mikilvægustu notendahóparnir fyrir fyrstu útgáfu (MVP). Starfsmenn (t.d. háskólanemar í hlutastarfi eins og Sara Jónsdóttir) eru þeir sem nota kerfið mest í rauntíma og drífa upp notkunina með því að stofna beiðnir og taka lausar vaktir í gegnum snjallsíma. Vaktstjórar bera hins vegar ábyrgð á rekstraröryggi og mönnun; ef kerfið lágmarkar ekki handvirka umsýslu þeirra og tryggir sjálfvirka regluvörslu ná viðskiptamarkmiðin (BO-1 og BO-2) ekki fram að ganga.
 
-**Val á notendahópi:** [Hvers vegna skiptir þessi hópur mestu máli
-fyrir fyrstu útgáfuna?]
+### Prófíll 1: Starfsmenn (Beinir notendur)
 
 | Atriði | Lýsing |
 |---|---|
-| Notendahópur og hlutverk | [Hverjir eru þetta og hvaða hlutverki gegna þeir?] |
-| Helsta virði (Major value) | [Hvaða ávinning fá þeir af vörunni?] |
-| Viðhorf (Attitudes) | [Hvaða væntingar eða fyrirvara hafa þeir?] |
-| Helstu áhugamál (Major interests) | [Hvaða eiginleikar og gæði skipta þá mestu máli?] |
-| Takmarkanir (Constraints) | [Hvaða þekktu skilyrði þarf að taka tillit til?] |
+| Notendahópur og hlutverk | Starfsfólk í hlutastarfi eða fullu starfi (Beinn notandi). Nota kerfið í gegnum snjallsíma til að skoða eigin vaktir, óska eftir vaktaskiptum og taka að sér lausar vaktir. |
+| Helsta virði (Major value) | Hraði, sveigjanleiki og minni óvissa. Geta leyst úr vaktaskiptum með stuttum fyrirvara í gegnum símann án þess að þurfa að senda skilaboð í óformlegum hópspjöllum. |
+| Viðhorf (Attitudes) | Afar jákvæð gagnvart stafrænum lausnum í síma, en Mjög viðkvæm fyrir flóknu eða hægvirku viðmóti. Expecta að ferlið sé rauntíma og skýrt. |
+| Helstu áhugamál (Major interests) | Einfalt viðmót, skjótar tilkynningar (push notifications), skýr staða beiðna og sjálfvirk parun við hæfa samstarfsmenn. |
+| Takmarkanir (Constraints) | Nota kerfið aðallega í snjallsímum (iOS/Android). Kerfið má ekki krefjast neinnar námskeiðsþjálfunar (verður að vera fullkomlega "intuitive"). |
 
 <!-- Ef þið veljið fleiri en einn hóp/aðila, gerið sérstakan prófíl
 fyrir hvern þeirra. -->
+### Prófíll 2: Vaktstjórar / Stjórnendur (Beinir notendur & Viðskiptavinir)
+
+| Atriði | Lýsing |
+|---|---|
+| Notendahópur og hlutverk | Vaktstjórar og rekstrarstjórar (Beinn notandi og viðskiptavinur). Bera ábyrgð á vaktaskipulagi, mönnun, færnikröfum og samþykkt vaktaskipta. |
+| Helsta virði (Major value) | Lækkaður umsýslukostnaður, sparaður tími og rekstraröryggi. Kerfið kemur í veg fyrir að vaktir séu ómannaðar eða mannaðar óhæfum starfsmönnum. |
+| Viðhorf (Attitudes) | Jákvæðir gagnvart sjálfvirkni en hræðast að missa stjórn á því hver mætir á vakt eða að kerfið samþykki breytingar sem brjóta kjarasamninga. |
+| Helstu áhugamál (Major interests) | Skilyrt sjálfvirkt samþykktarferli (conditional auto-approval), sjálfvirkt hvíldartíma- og hæfniseftirlit, og skýrt yfirlit yfir stöðu allra vakta. |
+| Takmarkanir (Constraints) | Hafa lítið svigrúm til yfirlegu; vinnutími í umsýslu vaktaskipta má ekki vera meiri en nokkrar mínútur á dag. |
 
 
 ## 4. Forgangsröðun verkefnisins
