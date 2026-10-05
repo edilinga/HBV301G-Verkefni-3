@@ -12,5 +12,5 @@
 
 ### Skipulag mappna og skráa:
 
-* **`VISIONSCOPE.md`**: Meginefni Verkefnis 3. Inniheldur mælanleg viðskiptamarkmið (BO-1, BO-2, BO-3), framtíðarsýn (Vision Statement), prófíla lykilhagsmunaaðila, forgangsröðun á fimm víddum verkefnisins og nákvæma afmörkun á umfang fyrstu útgáfu (MVP).
-* **`VINNUFERLI.md`**: Lýsing á vinnulagi og verkaskiptingu hópsins í gegnum GitHub, ígrundun á verkefninu ásamt gagnsæisyfirlýsingu um notkun gervigreindartóla.
+* **`VISION-MVP.md`**: Meginefni Verkefnis 3. Inniheldur mælanleg viðskiptamarkmið (BO-1, BO-2, BO-3), framtíðarsýn (Vision Statement), prófíla lykilhagsmunaaðila, forgangsröðun á fimm víddum verkefnisins og nákvæma afmörkun á umfang fyrstu útgáfu (MVP).
+* **`Vinnuferli.md`**: Lýsing á vinnulagi og verkaskiptingu hópsins í gegnum GitHub, ígrundun á verkefninu ásamt gagnsæisyfirlýsingu um notkun gervigreindartóla.
