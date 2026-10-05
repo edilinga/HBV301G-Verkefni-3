@@ -70,6 +70,9 @@ Vaktaskipti á vinnustöðum geta verið tímafrek og óskipulögð þegar samsk
 - **Mun varan:** [Hver er helsti munurinn eða kosturinn?]
 
 -->
+Vaktin er snjallsímalausn og stjórnendaviðmót ætlað starfsfólki og vaktstjórum í vaktavinnu sem þurfa að framkvæma og samþykkja vaktaskipti og afleysingar með skömmum fyrirvara án óþarfa tafa eða hættu á að brotið sé gegn hvíldartímalöggjöf. 
+
+Kerfið býður upp á rauntíma yfirsýn yfir auðar vaktir, sjálfvirkt hvíldartíma- og hæfniseftirlit ásamt skilyrtri sjálfvirkni í samþykktarferlum. Ólíkt óformlegum samskiptaleiðum eins og Facebook-hópum eða skilaboðaöppum tryggir Vaktin að öll vaktaskipti séu á einum miðlægum stað, dregur úr handvirkri yfirlegu stjórnenda og tryggir að aðeins hæfir starfsmenn sem uppfylla hvíldartímakröfur geti tekið við vakt.
 
 ## 3. Prófíll lykilhagsmunaaðila eða mikilvægra notenda
 
