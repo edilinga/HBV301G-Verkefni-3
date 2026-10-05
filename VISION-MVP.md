@@ -96,6 +96,8 @@ Við forgangsröðun verkefnisins er stuðst við fimm víddir Wiegers og Beatty
 | **Kostnaður (Cost)** | **Degree of freedom (Frjálsleiki)** | Enginn sérstakur fjárhagsrammi hefur verið skilgreindur fyrir verkefnið. Kostnaður er því ekki helsti þátturinn sem stýrir umfangi fyrstu útgáfu. |
 | **Mannafli (Staffing)** | **Constraint (Takmörkun)** | Verkefnið er unnið af tveimur hópmeðlimum og mannafli er því fastur. Umfang og forgangsröðun verkefnisins þurfa að taka mið af þeim tíma og mannafla sem er til staðar. |
 
+## 5. Umfang fyrstu útgáfu (MVP)
+
 ### 5.1 Umfang fyrstu útgáfu (MVP)
 
 Fyrsta útgáfa kerfisins þarf að styðja við allt grunnferli vaktaskipta og afleysinga, frá því að starfsmaður óskar eftir afleysingu þar til stjórnandi hefur afgreitt beiðnina og vaktaplanið hefur verið uppfært.
