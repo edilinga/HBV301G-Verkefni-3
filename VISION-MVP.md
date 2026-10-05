@@ -4,11 +4,11 @@
 
 **Verkefni 3 — Vision and Scope**
 
-**Heiti kerfis:** [Heiti]
+**Heiti kerfis:** Vaktin
 
-**Teymi og höfundar:** [Númer teymis og full nöfn]
+**Teymi og höfundar:** Edil Inga Kristjánsdóttir og Gabríel Orri Karlsson
 
-**Git repository:** [Slóð]
+**Git repository:** https://github.com/edilinga/HBV301G-Verkefni-3.git
 
 ## Efnisyfirlit
 
@@ -21,9 +21,6 @@
 
 
 ## 1. Viðskiptamarkmið
-
-<!-- Lýsið hvaða árangri viðskiptavinur eða stofnun vill ná með kerfinu og hvers vegna. Setjið fram mælanleg markmið þar sem því verður við komið: núverandi staða, æskileg breyting, mælikvarði og tímamörk. Greinið á milli viðskiptalegs árangurs og virkni kerfisins. Tengið markmiðin við þær þarfir sem komu fram í fyrri verkefnum. -->
-<!-- Takið út hornklofa og fyllið inn í - Endurtakið eftir þörfum --> 
 
 Vaktaskipti á vinnustöðum geta verið tímafrek og óskipulögð þegar samskipti fara fram í gegnum hópspjöll, skilaboð eða aðrar óformlegar leiðir. Starfsmenn geta átt erfitt með að finna hæfan samstarfsmann til að taka vakt og vaktstjórar þurfa oft að verja tíma í að samræma og samþykkja breytingar. Tækifæri er því til að einfalda vaktaskipti, stytta tímann sem fer í að finna staðgengil og draga úr handvirkri umsýslu vaktstjóra.
 
@@ -60,98 +57,75 @@ Vaktaskipti á vinnustöðum geta verið tímafrek og óskipulögð þegar samsk
 
 ## 2. Framtíðarsýn
 
-<!-- Skiptið listanum út fyrir stutta framtíðarsýn í samfelldu máli sem þið getið kynnt fyrir öðrum. Styðjist við atriðin hér að ofan. 
-
-- **Fyrir:** [Hvaða viðskiptavin eða notendahóp?]
-- **Sem:** [Hvaða þörf hefur hópurinn eða hvaða tækifæri er til staðar?]
-- **Er [heiti vöru]:** [Hvers konar vara eða kerfi?]
-- **Sem:** [Hvaða meginvirði eða ávinning skapar varan?]
-- **Ólíkt:** [Núverandi lausn, verklagi eða öðrum valkosti.]
-- **Mun varan:** [Hver er helsti munurinn eða kosturinn?]
-
--->
 Vaktin er snjallsímalausn og stjórnendaviðmót ætlað starfsfólki og vaktstjórum í vaktavinnu sem þurfa að framkvæma og samþykkja vaktaskipti og afleysingar á einfaldan og skilvirkan hátt.
 Kerfið býður upp á rauntíma yfirsýn yfir lausar vaktir, sjálfvirkt eftirlit með hæfniskröfum og skýrt ferli fyrir samþykki vaktaskipta. Ólíkt óformlegum samskiptaleiðum eins og Facebook-hópum eða skilaboðaöppum heldur Vaktin utan um vaktaskipti á einum miðlægum stað, dregur úr handvirkri umsýslu stjórnenda og tryggir að aðeins starfsmenn sem uppfylla hæfniskröfur viðkomandi vaktar geti tekið við henni.
 
 ## 3. Prófíll lykilhagsmunaaðila eða mikilvægra notenda
 
-<!-- Veljið þann hóp/a úr verkefni 2 sem skipta
-mestu máli fyrir framtíðarsýnina og MVP. Rökstyðjið valið. Vísið í
-verkefni 2 í stað þess að endurtaka alla hagsmunaaðilagreininguna. 
--->
-**Val á notendahópi:** Starfsmenn og vaktstjórar voru valdir sem tveir mikilvægustu notendahóparnir fyrir fyrstu útgáfu (MVP). Starfsmenn (t.d. háskólanemar í hlutastarfi eins og Sara Jónsdóttir) eru þeir sem nota kerfið mest í rauntíma og drífa upp notkunina með því að stofna beiðnir og taka lausar vaktir í gegnum snjallsíma. Vaktstjórar bera hins vegar ábyrgð á rekstraröryggi og mönnun; ef kerfið lágmarkar ekki handvirka umsýslu þeirra og tryggir sjálfvirka regluvörslu ná viðskiptamarkmiðin (BO-1 og BO-2) ekki fram að ganga.
+**Val á notendahópi:** Starfsmenn og vaktstjórar voru valdir sem mikilvægustu notendahóparnir fyrir fyrstu útgáfu (MVP). Starfsmenn nota kerfið til að óska eftir afleysingu og taka að sér lausar vaktir, en vaktstjórar bera ábyrgð á að yfirfara og samþykkja breytingar. Báðir hóparnir eru því nauðsynlegir til að vaktaskiptaferlið virki og til að styðja við viðskiptamarkmið BO-1, BO-2 og BO-3.
 
-### Prófíll 1: Starfsmenn (Beinir notendur)
+### Prófíll 1: Starfsmenn
 
 | Atriði | Lýsing |
 |---|---|
-| Notendahópur og hlutverk | Starfsfólk í hlutastarfi eða fullu starfi (Beinn notandi). Nota kerfið í gegnum snjallsíma til að skoða eigin vaktir, óska eftir vaktaskiptum og taka að sér lausar vaktir. |
-| Helsta virði (Major value) | Hraði, sveigjanleiki og minni óvissa. Geta leyst úr vaktaskiptum með stuttum fyrirvara í gegnum símann án þess að þurfa að senda skilaboð í óformlegum hópspjöllum. |
-| Viðhorf (Attitudes) | Afar jákvæð gagnvart stafrænum lausnum í síma, en Mjög viðkvæm fyrir flóknu eða hægvirku viðmóti. Expecta að ferlið sé rauntíma og skýrt. |
-| Helstu áhugamál (Major interests) | Einfalt viðmót, skjótar tilkynningar (push notifications), skýr staða beiðna og sjálfvirk parun við hæfa samstarfsmenn. |
-| Takmarkanir (Constraints) | Nota kerfið aðallega í snjallsímum (iOS/Android). Kerfið má ekki krefjast neinnar námskeiðsþjálfunar (verður að vera fullkomlega "intuitive"). |
+| Notendahópur og hlutverk | Starfsmenn í vakta- eða hlutastarfi. Nota kerfið til að skoða eigin vaktir, óska eftir afleysingu og óska eftir að taka lausar vaktir. |
+| Helsta virði (Major value) | Hraðari og einfaldari leið til að leysa úr vaktaskiptum og minni þörf á samskiptum í óformlegum hópspjöllum. Styður sérstaklega BO-1 og BO-3. |
+| Viðhorf (Attitudes) | Búast við einföldu og skýru kerfi þar sem auðvelt er að sjá lausar vaktir og stöðu beiðna. |
+| Helstu áhugamál (Major interests) | Einfalt viðmót, skýr staða beiðna, uppfært vaktaplan og tímanlegar tilkynningar. |
+| Takmarkanir (Constraints) | Kerfið þarf að taka tillit til hæfniskrafna einstakra vakta og þess að vaktaskipti taka ekki gildi fyrr en stjórnandi hefur samþykkt þau. |
 
-<!-- Ef þið veljið fleiri en einn hóp/aðila, gerið sérstakan prófíl
-fyrir hvern þeirra. -->
-### Prófíll 2: Vaktstjórar / Stjórnendur (Beinir notendur & Viðskiptavinir)
+### Prófíll 2: Vaktstjórar / stjórnendur
 
 | Atriði | Lýsing |
 |---|---|
-| Notendahópur og hlutverk | Vaktstjórar og rekstrarstjórar (Beinn notandi og viðskiptavinur). Bera ábyrgð á vaktaskipulagi, mönnun, færnikröfum og samþykkt vaktaskipta. |
-| Helsta virði (Major value) | Lækkaður umsýslukostnaður, sparaður tími og rekstraröryggi. Kerfið kemur í veg fyrir að vaktir séu ómannaðar eða mannaðar óhæfum starfsmönnum. |
-| Viðhorf (Attitudes) | Jákvæðir gagnvart sjálfvirkni en hræðast að missa stjórn á því hver mætir á vakt eða að kerfið samþykki breytingar sem brjóta kjarasamninga. |
-| Helstu áhugamál (Major interests) | Skilyrt sjálfvirkt samþykktarferli (conditional auto-approval), sjálfvirkt hvíldartíma- og hæfniseftirlit, og skýrt yfirlit yfir stöðu allra vakta. |
-| Takmarkanir (Constraints) | Hafa lítið svigrúm til yfirlegu; vinnutími í umsýslu vaktaskipta má ekki vera meiri en nokkrar mínútur á dag. |
+| Notendahópur og hlutverk | Vaktstjórar eða aðrir ábyrgir stjórnendur. Hafa yfirsýn yfir vaktaskipti og afleysingar og samþykkja eða hafna beiðnum. |
+| Helsta virði (Major value) | Minni handvirk umsýsla, skýrari yfirsýn og auðveldara að tryggja að hæfur starfsmaður taki við vakt. Styður sérstaklega BO-2 og BO-3. |
+| Viðhorf (Attitudes) | Búast við að kerfið einfaldi umsýslu án þess að þeir missi stjórn á samþykkt vaktaskipta. |
+| Helstu áhugamál (Major interests) | Skýr yfirsýn yfir beiðnir, upplýsingar um starfsmenn og vaktir, hæfniskröfur og einfalt samþykktarferli. |
+| Takmarkanir (Constraints) | Vaktaskipti mega ekki taka gildi án samþykkis stjórnanda og starfsmaður sem tekur við vakt þarf að uppfylla hæfniskröfur hennar. |
 
 ## 4. Forgangsröðun verkefnisins
 
-Við forgangsröðun verkefnisins er stuðst við fimm víddir Wiegers og Beatty til að skilgreina hvaða þættir verkefnisins eru fastar kröfur og hvar svigrúm er til að aðlaga umfang og útfærslu. Markmiðið er að tryggja að hægt sé að afhenda virkt MVP innan tilsettra tímamarka, án þess að það komi niður á öryggi, gæðum eða regluvörslu kerfisins.
+Við forgangsröðun verkefnisins er stuðst við fimm víddir Wiegers og Beatty til að skilgreina hvaða þættir verkefnisins eru fastar kröfur og hvar svigrúm er til að aðlaga umfang og útfærslu. Markmiðið er að tryggja að hægt sé að afhenda nothæft MVP innan tilsettra tímamarka sem styður við viðskiptamarkmiðin og þarfir helstu notenda.
 
 | Vídd | Flokkun | Rökstuðningur |
 |---|---|---|
-| **Eiginleikar** *(Features)* | **Degree of freedom** *(Frjálsleiki)* | Umfang eiginleika hefur ákveðið svigrúm og er fyrst og fremst miðað við þá virkni sem nauðsynleg er fyrir MVP og styður beint við viðskiptamarkmiðin BO-1, BO-2 og BO-3. Aukalegir eða flóknari eiginleikar, svo sem sjálfvirkur launaútreikningur, ítarleg tölfræðigreining og háþróuð vaktaskipulagning, verða ekki forgangsraðaðir í fyrstu útgáfu og geta komið til skoðunar í síðari útgáfum. |
-| **Gæði** *(Quality)* | **Constraint** *(Takmörkun)* | Gæði, öryggi og regluvarsla eru ófrávíkjanlegar kröfur verkefnisins. Kerfið þarf ávallt að tryggja að vaktaskipti samræmist gildandi reglum, þar á meðal kröfum um lágmarkshvíld, svo sem 11 klukkustunda samfellda hvíld, auk nauðsynlegra færnikrafna. Áreiðanleg regluvarsla og rétt virkni tilkynninga eru grundvöllur þess að notendur geti treyst kerfinu. |
-| **Tímasetningar** *(Schedule)* | **Driver** *(Drifkraftur)* | Tímasetningar eru helsti drifkraftur verkefnisins. Stefnt er að því að afhenda virkt og prófanlegt MVP innan þeirra tímamarka sem námskeiðið setur. Með því fæst tækifæri til að prófa lausnina, safna niðurstöðum og meta hvort hún styðji við skilgreind viðskiptamarkmið. |
-| **Kostnaður** *(Cost)* | **Degree of freedom** *(Frjálsleiki)* | Kostnaður er ekki veruleg takmörkun á verkefninu þar sem áhersla er lögð á notkun ókeypis eða opins hugbúnaðar og innviða, svo sem GitHub, ókeypis hýsingarlausna og gagnagrunna. Þar af leiðandi er hægt að halda fjárhagslegum kostnaði í lágmarki án þess að það hafi veruleg áhrif á umfang eða framvindu verkefnisins. |
-| **Mannafli** *(Staffing)* | **Constraint** *(Takmörkun)* | Mannafli er föst takmörkun þar sem verkefnið er unnið af tveimur hópmeðlimum og vinnuframlag þeirra takmarkast af þeim tíma sem stendur til boða innan námskeiðsins. Ekki er hægt að bæta við fleiri teymismeðlimum til að flýta þróun. Því þarf að forgangsraða verkefnum vandlega og beina vinnu að þeim þáttum sem eru nauðsynlegir fyrir MVP. |
-
-## 5. Umfang fyrstu útgáfu (MVP)
-
-<!-- Lýsið minnstu nothæfu útgáfu kerfisins sem skilar virði fyrir mikilvæga
-notendur og styður við viðskiptamarkmiðin í kafla 1. Hér er verið að afmarka
-fyrstu útgáfu, ekki endurtaka kerfismörkin úr verkefni 1. -->
+| **Eiginleikar (Features)** | **Degree of freedom (Frjálsleiki)** | Svigrúm er til að aðlaga umfang eiginleika svo lengi sem kjarnavirkni MVP styður BO-1, BO-2 og BO-3. Forgangur er á vaktaskiptum, afleysingum, hæfniskröfum, samþykki stjórnanda og uppfærðu vaktaplani. Aðrir eiginleikar geta beðið síðari útgáfu. |
+| **Gæði (Quality)** | **Constraint (Takmörkun)** | Kerfið þarf að vera áreiðanlegt og auðvelt í notkun. Upplýsingar um vaktir og stöðu beiðna þurfa að vera réttar og uppfærðar og kerfið þarf að framfylgja skilgreindum hæfniskröfum og samþykktarferli. |
+| **Tímasetningar (Schedule)** | **Driver (Drifkraftur)** | Tímasetningar stýra umfangi fyrstu útgáfu. Markmiðið er að afhenda nothæft MVP innan tilsettra tímamarka og því geta eiginleikar sem eru ekki nauðsynlegir fyrir kjarnavirkni beðið síðari útgáfu. |
+| **Kostnaður (Cost)** | **Degree of freedom (Frjálsleiki)** | Enginn sérstakur fjárhagsrammi hefur verið skilgreindur fyrir verkefnið. Kostnaður er því ekki helsti þátturinn sem stýrir umfangi fyrstu útgáfu. |
+| **Mannafli (Staffing)** | **Constraint (Takmörkun)** | Verkefnið er unnið af tveimur hópmeðlimum og mannafli er því fastur. Umfang og forgangsröðun verkefnisins þurfa að taka mið af þeim tíma og mannafla sem er til staðar. |
 
 ### 5.1 Umfang fyrstu útgáfu (MVP)
 
-Lýsið hvað notendur geta gert með fyrstu útgáfunni og hvaða nauðsynlegu
-gæði hún þarf að hafa til að skila virði. Rökstyðjið valið með hliðsjón
-af mikilvægustu notendum og viðskiptamarkmiðum.
-
-Byggið á kröfum og hugmyndum úr verkefnum 1 og 2 eftir því sem við á.
-Þið megið endurskoða þær og bæta við nýjum eiginleikum þegar sýnin
-og umfang fyrstu útgáfu skýrast.
+Fyrsta útgáfa kerfisins þarf að styðja við allt grunnferli vaktaskipta og afleysinga, frá því að starfsmaður óskar eftir afleysingu þar til stjórnandi hefur afgreitt beiðnina og vaktaplanið hefur verið uppfært.
 
 | Hvað þarf að vera í MVP? | Hvers vegna? | Tengsl við fyrri verkefni, ef við á |
 |---|---|---|
-| [Eiginleiki eða nauðsynleg gæði] | [Virði fyrir notendur og tengsl við BO] | [T.d. F-1 úr V1, notendaþörf úr V2 eða „nýtt“] |
+| Starfsmaður getur sett eigin vakt í afleysingu | Er upphafspunktur vaktaskiptaferlisins og gerir starfsmanni kleift að óska eftir staðgengli. Styður BO-1 og BO-3. | UR-1, FR-1–FR-3 |
+| Starfsmenn geta skoðað lausar vaktir og óskað eftir að taka þær | Gerir mögulegum staðgenglum kleift að finna lausar vaktir á einum stað og styður hraðari afleysingar. Styður BO-1 og BO-3. | UR-2, FR-4–FR-5 |
+| Kerfið kannar hvort starfsmaður uppfylli hæfniskröfur vaktar | Dregur úr hættu á að óhæfur starfsmaður taki að sér vakt og styður BO-3. | BRG-2, FR-6 |
+| Stjórnandi getur skoðað, samþykkt eða hafnað beiðnum | Tryggir að stjórnandi haldi yfirsýn og stjórn á vaktaskiptum á sama tíma og umsýslan fer fram á einum stað. Styður BO-2 og BO-3. | BRG-1, UR-3–UR-4, FR-7–FR-11 |
+| Vaktaplan uppfærist eftir samþykkt vaktaskipti | Tryggir að réttur starfsmaður sé skráður á vakt og að upplýsingar séu uppfærðar. | UR-5, FR-12–FR-15 |
+| Notendur fá tilkynningar um stöðu beiðna og breytingar sem varða þá | Minnkar óvissu og þörf fyrir handvirk samskipti milli starfsmanna og stjórnenda. Styður BO-1 og BO-2. | UR-6, FR-16–FR-18 |
+
 
 ### 5.2 Rökstuðningur fyrir vali í fyrstu útgáfu
 
-[Útskýrið hvers vegna þessi atriði voru valin í MVP. Vísið í forgangsröðun verkefnisins í kafla 4, viðskiptamarkmiðin og þarfir lykilhagsmunaaðila.]
+Atriðin í MVP voru valin vegna þess að saman mynda þau lágmarksferli sem þarf til að vaktaskipti og afleysingar geti farið fram í kerfinu frá upphafi til enda. Starfsmaður þarf að geta óskað eftir afleysingu, annar hæfur starfsmaður þarf að geta óskað eftir að taka vaktina og stjórnandi þarf að geta samþykkt eða hafnað breytingunni. Að lokum þarf vaktaplanið að endurspegla samþykkta breytingu og viðeigandi notendur að fá upplýsingar um niðurstöðuna.
+
+Þessi virkni styður beint við BO-1 með því að auðvelda og flýta leit að staðgengli, BO-2 með því að halda umsýslu og samþykkt vaktaskipta á einum stað og BO-3 með því að kanna hæfniskröfur og halda utan um samþykktar beiðnir. Val á umfangi tekur einnig mið af forgangsröðun verkefnisins þar sem tímasetningar og mannafli takmarka hversu mikla virkni er raunhæft að hafa í fyrstu útgáfu.
 
 ### 5.3 Hvað bíður síðari útgáfu?
 
-[Nefnið mikilvæga eiginleika úr framtíðarsýninni sem verða ekki í fyrstu
-útgáfu. Útskýrið hvers vegna þeir geta beðið án þess að MVP missi gildi sitt.]
+Fyrsta útgáfa leggur áherslu á grunnferli vaktaskipta og afleysinga. Frekari eiginleikar sem geta aukið þægindi og yfirsýn notenda geta komið í síðari útgáfum án þess að grunnvirði MVP tapist.
 
 | Eiginleiki | Ástæða þess að hann getur beðið |
 |---|---|
-| [Eiginleiki] | [Rökstuðningur] |
+| Ítarlegri síun og leit að lausum vöktum | Grunnlisti yfir lausar vaktir nægir til að framkvæma kjarnaverkefni MVP. Ítarlegri leit og síun getur bætt notendaupplifun síðar. |
+| Ítarlegri yfirlit og samantektir fyrir stjórnendur | Stjórnendur geta þegar skoðað og afgreitt beiðnir í MVP. Frekari yfirlit og samantektir eru gagnlegar en ekki nauðsynlegar fyrir grunnferlið. |
+| Fleiri stillingar fyrir tilkynningar | MVP þarf að senda nauðsynlegar tilkynningar um beiðnir og breytingar. Sérsniðnar tilkynningastillingar geta beðið síðari útgáfu. |
 
 ### 5.4 Takmarkanir og útilokanir
 
-[Skráið það sem fólk gæti búist við að varan geri en verður ekki hluti
-af henni í neinni fyrirhugaðri útgáfu. Ef engar slíkar útilokanir
-liggja fyrir, segið það stuttlega. Atriði sem bíða síðari útgáfu eiga
-heima í kafla 5.3.]
-
+Kerfinu er ætlað að halda utan um vaktaskipti, afleysingar og tengda uppfærslu vaktaplans. Það er ekki ætlað að vera heildstætt mannauðs-, launa- eða bókhaldskerfi. Launaútreikningar, launagreiðslur og önnur almenn mannauðsstjórnun eru því utan fyrirhugaðs umfangs kerfisins.
