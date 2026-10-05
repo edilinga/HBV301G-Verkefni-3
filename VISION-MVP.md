@@ -25,15 +25,37 @@
 <!-- Lýsið hvaða árangri viðskiptavinur eða stofnun vill ná með kerfinu og hvers vegna. Setjið fram mælanleg markmið þar sem því verður við komið: núverandi staða, æskileg breyting, mælikvarði og tímamörk. Greinið á milli viðskiptalegs árangurs og virkni kerfisins. Tengið markmiðin við þær þarfir sem komu fram í fyrri verkefnum. -->
 <!-- Takið út hornklofa og fyllið inn í - Endurtakið eftir þörfum --> 
 
-### BO-1: [Mælanlegt viðskiptamarkmið og tímamörk]
+Vaktaskipti á vinnustöðum geta verið tímafrek og óskipulögð þegar samskipti fara fram í gegnum hópspjöll, skilaboð eða aðrar óformlegar leiðir. Starfsmenn geta átt erfitt með að finna hæfan samstarfsmann til að taka vakt og vaktstjórar þurfa oft að verja tíma í að samræma og samþykkja breytingar. Tækifæri er því til að einfalda vaktaskipti, stytta tímann sem fer í að finna staðgengil og draga úr handvirkri umsýslu vaktstjóra.
+
+### BO-1: Stytta meðaltíma sem tekur að finna staðgengil fyrir vakt um 50% innan sex mánaða frá innleiðingu kerfisins
 
 | Atriði | Lýsing |
 |---|---|
-| Mælikvarði (Scale) | [Hvað er mælt?] |
-| Mæliaðferð (Meter) | [Hvernig og hvaðan fást mæligögn?] |
-| Fyrri staða (Past) | [Þekkt upphafsstaða en ef hún er ekki þekkt skrifið "ekki þekkt enn" og segið hvernig megi mæla hana] |
-| Markmið (Goal) | [Árangur sem stefnt er að] |
-| Metnaðarmarkmið (Stretch) | [Árangur umfram markmiðið, ef við á] |
+| Mælikvarði (Scale) | Meðaltími frá því að beiðni um vaktaskipti er skráð þar til hæfur staðgengill hefur fundist. |
+| Mæliaðferð (Meter) | Tímastimplar í kerfinu mæla tímann frá skráningu beiðni þar til staðgengill hefur tekið vaktina. |
+| Fyrri staða (Past) | Ekki þekkt enn. Upphafsstaða verður metin með upplýsingum frá starfsfólki um núverandi ferli áður en kerfið er tekið í notkun. |
+| Markmið (Goal) | 50% styttri meðaltími innan sex mánaða frá innleiðingu kerfisins. |
+| Metnaðarmarkmið (Stretch) | 70% styttri meðaltími innan sex mánaða frá innleiðingu kerfisins. |
+
+### BO-2: Draga úr tíma sem vaktstjórar verja í umsýslu vaktaskipta um 40% innan sex mánaða frá innleiðingu kerfisins
+
+| Atriði | Lýsing |
+|---|---|
+| Mælikvarði (Scale) | Meðaltími sem vaktstjórar verja í að samræma og afgreiða vaktaskipti. |
+| Mæliaðferð (Meter) | Ekki þekkt enn. Upphafsstaða verður metin með því að mæla þann tíma sem fer í umsýslu vaktaskipta samkvæmt núverandi verklagi áður en kerfið er tekið í notkun. |
+| Fyrri staða (Past) | Ekki þekkt enn. Upphafsstaða verður mæld með upplýsingum frá vaktstjórum áður en kerfið er tekið í notkun. |
+| Markmið (Goal) | 40% minni tími fari í umsýslu vaktaskipta innan sex mánaða frá innleiðingu. |
+| Metnaðarmarkmið (Stretch) | 60% minni tími fari í umsýslu vaktaskipta innan sex mánaða frá innleiðingu. |
+
+### BO-3: Ná að minnsta kosti 90% hlutfalli vaktaskiptabeiðna sem leystar eru með hæfum staðgengli innan sex mánaða frá innleiðingu kerfisins
+
+| Atriði | Lýsing |
+|---|---|
+| Mælikvarði (Scale) | Hlutfall vaktaskiptabeiðna þar sem hæfur staðgengill finnst og vaktaskiptin eru samþykkt. |
+| Mæliaðferð (Meter) | Kerfið skráir fjölda vaktaskiptabeiðna og hversu margar þeirra enda með samþykktum vaktaskiptum við hæfan staðgengil. |
+| Fyrri staða (Past) | Ekki þekkt enn. Upphafsstaða verður metin út frá upplýsingum um vaktaskipti áður en kerfið er tekið í notkun. |
+| Markmið (Goal) | Að minnsta kosti 90% vaktaskiptabeiðna verði leyst með hæfum staðgengli innan sex mánaða frá innleiðingu. |
+| Metnaðarmarkmið (Stretch) | Að minnsta kosti 95% vaktaskiptabeiðna verði leyst með hæfum staðgengli innan sex mánaða frá innleiðingu. |
 
 
 ## 2. Framtíðarsýn
