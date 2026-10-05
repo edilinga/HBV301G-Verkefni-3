@@ -92,22 +92,17 @@ fyrir fyrstu útgáfuna?]
 <!-- Ef þið veljið fleiri en einn hóp/aðila, gerið sérstakan prófíl
 fyrir hvern þeirra. -->
 
-
 ## 4. Forgangsröðun verkefnisins
 
-Flokkið hverja af fimm víddum verkefnisins sem **drifkraft (Driver)**,
-**takmörkun (Constraint)** eða **frjálsleika/frígráðu (Degree of freedom)**.
-Rökstyðjið flokkunina með vísun í viðskiptamarkmiðin, framtíðarsýnina
-og þarfir og væntingar lykilhagsmunaaðila.
+Við forgangsröðun verkefnisins er stuðst við fimm víddir Wiegers og Beatty til að skilgreina hvaða þættir verkefnisins eru fastar kröfur og hvar svigrúm er til að aðlaga umfang og útfærslu. Markmiðið er að tryggja að hægt sé að afhenda virkt MVP innan tilsettra tímamarka, án þess að það komi niður á öryggi, gæðum eða regluvörslu kerfisins.
 
 | Vídd | Flokkun | Rökstuðningur |
 |---|---|---|
-| Eiginleikar | [Driver / Constraint / Degree of freedom] | [Hvaða eiginleikar skipta mestu máli og hvers vegna?] |
-| Gæði | [Driver / Constraint / Degree of freedom] | [Hvaða gæði þurfa að ná tilteknu marki?] |
-| Tímasetningar | [Driver / Constraint / Degree of freedom] | [Er afhending á ákveðnum tíma nauðsynleg eða sveigjanleg?] |
-| Kostnaður | [Driver / Constraint / Degree of freedom] | [Er fastur fjárhagsrammi eða svigrúm til breytinga?] |
-| Mannafli | [Driver / Constraint / Degree of freedom] | [Er teymisstærð eða aðgengi að fólki fast eða sveigjanlegt?] |
-
+| **Eiginleikar** *(Features)* | **Degree of freedom** *(Frjálsleiki)* | Umfang eiginleika hefur ákveðið svigrúm og er fyrst og fremst miðað við þá virkni sem nauðsynleg er fyrir MVP og styður beint við viðskiptamarkmiðin BO-1, BO-2 og BO-3. Aukalegir eða flóknari eiginleikar, svo sem sjálfvirkur launaútreikningur, ítarleg tölfræðigreining og háþróuð vaktaskipulagning, verða ekki forgangsraðaðir í fyrstu útgáfu og geta komið til skoðunar í síðari útgáfum. |
+| **Gæði** *(Quality)* | **Constraint** *(Takmörkun)* | Gæði, öryggi og regluvarsla eru ófrávíkjanlegar kröfur verkefnisins. Kerfið þarf ávallt að tryggja að vaktaskipti samræmist gildandi reglum, þar á meðal kröfum um lágmarkshvíld, svo sem 11 klukkustunda samfellda hvíld, auk nauðsynlegra færnikrafna. Áreiðanleg regluvarsla og rétt virkni tilkynninga eru grundvöllur þess að notendur geti treyst kerfinu. |
+| **Tímasetningar** *(Schedule)* | **Driver** *(Drifkraftur)* | Tímasetningar eru helsti drifkraftur verkefnisins. Stefnt er að því að afhenda virkt og prófanlegt MVP innan þeirra tímamarka sem námskeiðið setur. Með því fæst tækifæri til að prófa lausnina, safna niðurstöðum og meta hvort hún styðji við skilgreind viðskiptamarkmið. |
+| **Kostnaður** *(Cost)* | **Degree of freedom** *(Frjálsleiki)* | Kostnaður er ekki veruleg takmörkun á verkefninu þar sem áhersla er lögð á notkun ókeypis eða opins hugbúnaðar og innviða, svo sem GitHub, ókeypis hýsingarlausna og gagnagrunna. Þar af leiðandi er hægt að halda fjárhagslegum kostnaði í lágmarki án þess að það hafi veruleg áhrif á umfang eða framvindu verkefnisins. |
+| **Mannafli** *(Staffing)* | **Constraint** *(Takmörkun)* | Mannafli er föst takmörkun þar sem verkefnið er unnið af tveimur hópmeðlimum og vinnuframlag þeirra takmarkast af þeim tíma sem stendur til boða innan námskeiðsins. Ekki er hægt að bæta við fleiri teymismeðlimum til að flýta þróun. Því þarf að forgangsraða verkefnum vandlega og beina vinnu að þeim þáttum sem eru nauðsynlegir fyrir MVP. |
 
 ## 5. Umfang fyrstu útgáfu (MVP)
 
