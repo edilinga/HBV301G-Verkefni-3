@@ -20,9 +20,11 @@ Hópmeðlimir unnu að sínum verkefnum á aðskildum greinum. Breytingar voru v
 Við fórum yfir vinnu hvors annars í gegnum pull request og gerðum breytingar eftir þörfum áður en efnið var sameinað við aðalgreinina.
 
 ## Ígrundun
-- Í lok verkefnis gerið endurmat á verkefninu:
-    - Hvað gekk vel í verkefninu
-    - Hvað má bæta næst
+Hópavinnan gekk vel og verkaskiptingin var skýr. Við skiptum verkefninu á milli okkar þannig að hvor aðili sá um ákveðna hluta. Þannig gátum við unnið sjálfstætt að okkar verkefnum án þess að vera stöðugt að vinna í sömu skrám. Samskiptin gengu einnig vel og við létum hvort annað vita þegar hlutar voru tilbúnir eða þurftu yfirferð.
+
+Git og GitHub hjálpuðu okkur að halda utan um breytingar og vinna skipulega. Við notuðum aðskildar greinar og pull requests til að fara yfir breytingar áður en þær voru sameinaðar. Í yfirferð komu upp nokkur atriði sem þurfti að laga, sem sýndi okkur mikilvægi þess að fara yfir vinnu hvors annars áður en henni var skilað.
+
+Það sem við myndum helst bæta næst er að skipuleggja verkaskiptingu og vinnuferlið fyrr. Einnig væri gott að setja skýrari tímamörk fyrir hvenær hver hluti ætti að vera tilbúinn til yfirferðar. Þannig fengist meiri tími í sameiginlega yfirferð í lokin og minni hætta væri á að smávægileg atriði kæmu upp rétt fyrir skil.
 
 ## Gagnsæisyfirlýsing um notkun gervigreindar
  
